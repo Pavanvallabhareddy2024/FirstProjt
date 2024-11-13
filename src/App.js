@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>Super it's Working</p>
         <p>It's a new branch</p>
+        <p>Now i am at Dev2 branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
