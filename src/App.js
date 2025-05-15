@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>Super it's Working</p>
         <p>It's Working from GitHub Desktop!</p>
+        <p>Working from git commands</p>
         <a
           className="App-link"
           href="https://reactjs.org"
